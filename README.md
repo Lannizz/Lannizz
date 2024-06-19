@@ -2,6 +2,7 @@
 <h1 align = "center">
   Olá mundo!
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNkc3VyMXRzMTFmN3hiaHNqNmt6ZWFnaDlrMWd4eWVsMzM0bmN0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rVz1J8spLtUtO/giphy.gif" width="50px">
+  </h1>
 <div id="header" align="center" >
   <img src="https://github.com/Lannizz/Lannizz/blob/main/banner_readme.jpg" width="30%"/>
 </div>
@@ -16,7 +17,7 @@
   
 </div>
 
-</h1>
+
 
 ---
 
