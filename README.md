@@ -24,7 +24,7 @@
 ### :woman_technologist: About Me :
 
 
-- :open_book: Olá! 👋 Meu nome é Lanna, sou uma estudante de 19 anos com uma paixão por desenvolvimento full-stack e inteligência artificial. Atualmente, estou mergulhando no mundo JavaScript e suas bibliotecas.
+- :open_book: Olá! 👋 Meu nome é Lanna, sou uma estudante de 19 anos com uma paixão por desenvolvimento full-stack, inteligência artificial e cibersegurança. Atualmente, estou mergulhando no mundo JavaScript e suas bibliotecas.
 
 - :mechanical_arm: Minha curiosidade me leva a explorar áreas como visão computacional, IA generativa e processamento de linguagem natural. Busco aprimorar meus conhecimentos para ingressar no curso de Engenharia de Software.
 
