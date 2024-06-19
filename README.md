@@ -1,5 +1,5 @@
 <div id="header" align="center" >
-  <img src="capa readme" width="30%"/>
+  <img src="banner_readme.jpeg" width="30%"/>
 </div>
 
 <div id="header" align ="center">
