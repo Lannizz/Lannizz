@@ -1,5 +1,5 @@
 <div id="header" align="center" >
-  <img src="banner_readme.jpeg" width="30%"/>
+  <img src="https://github.com/Lannizz/Lannizz/blob/main/banner_readme.jpg" width="30%"/>
 </div>
 
 <div id="header" align ="center">
