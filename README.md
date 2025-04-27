@@ -24,9 +24,8 @@
 ### :woman_technologist: About Me :
 
 
-- :open_book: Olá! 👋 Meu nome é Lanna, sou uma estudante de Análise e Desenvolvimento de Sistemas na FIAP. Com uma paixão por desenvolvimento full-stack, inteligência artificial e cibersegurança. Atualmente, estou mergulhando no mundo HTML, CSS, JavaScript e suas bibliotecas.
+- :open_book: Olá! 👋 Meu nome é Lanna, sou uma estudante de Análise e Desenvolvimento de Sistemas na FIAP. Com uma paixão por desenvolvimento BackEnd, inteligência artificial e cibersegurança. Atualmente, estou mergulhando no mundo Java e suas bibliotecas.
 
-- :mechanical_arm: Minha curiosidade me leva a explorar áreas como visão computacional, IA generativa e processamento de linguagem natural. Busco aprimorar meus conhecimentos para ingressar no mercado de trabalho como desenvolvedora Full-Stack.
 
 - :headphones: No meu tempo livre, gosto de me manter atualizada sobre as últimas tendências de tecnologia através de podcasts e artigos.
 
